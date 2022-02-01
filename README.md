@@ -8,7 +8,7 @@ Html,Css,Js,C#.Net,Blazor,MSSSQL,Vs,VsCode,ManagmentStudio,DBeaver
 SQL SERVER,POWER BI
 
 ## Connect With Me:
-### Instagram📱:[instagram.com/mehmetbelten](instagram.com/mehmetbelten)
-### Twitter🐦:[twitter.com/mehmettbelten](twitter.com/mehmettbelten)
+### Instagram📱:[https://www.instagram.com/mehmetbelten/](https://www.instagram.com/mehmetbelten/)
+### Twitter🐦:[https://twitter.com/mehmettbelten](https://twitter.com/mehmettbelten)
 ### Linkedin💼:[https://www.linkedin.com/in/mehmet-belten-a8b44821b](https://www.linkedin.com/in/mehmet-belten-a8b44821b)
 ### My WebSite🌍:[mehmetbelten.com](mehmetbelten.com) --> Not Available Yet :(
