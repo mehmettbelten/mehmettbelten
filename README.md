@@ -1,2 +1,2 @@
-# RepositoryForMe
-Repository about me.
+## Hello✋,this readme about me.
+I'm Mehmet 20 years old living in İstanbul/Turkey.I'm still a student at Biruni University-Computer Programming :).I started software develop an IT things too young for this reason I meet very experience peoples and taked part in the  many project this times and keep going.Now i'm woirking a non-profit organizations as a jr. web develepoer and little bit IT supporter in İstanbul.Also i'm interesting about firewalls(pfSense),servers and IOT stuff i'm very enjot this.
